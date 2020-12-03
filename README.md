@@ -1,3 +1,3 @@
-# flight-dynamics
-飞行动力学学习
-first
+## flight-dynamics
+
+飞机飞行动力学笔记。
